@@ -1,0 +1,458 @@
+<HDon>
+    <DLHDon Id="WGHWSNV2A34X">
+        <TTChung>
+            <PBan>2.1.0</PBan>
+            <THDon>Hóa đơn giá trị gia tăng</THDon>
+            <KHMSHDon>1</KHMSHDon>
+            <KHHDon>C25TTP</KHHDon>
+            <SHDon>00003098</SHDon>
+            <NLap>2025-06-19</NLap>
+            <DVTTe>VND</DVTTe>
+            <TGia>1.00</TGia>
+            <HTTToan>TM/CK</HTTToan>
+            <MSTTCGP>0101243150</MSTTCGP>
+        </TTChung>
+        <NDHDon>
+            <NBan>
+                <Ten>Công ty TNHH Giao Nhận T.T.P</Ten>
+                <MST>0201040877</MST>
+                <DChi>Số 3 đường Lê Thánh Tông, Phường Gia Viên, Quận Ngô Quyền, Thành Phố Hải
+                    Phòng, Việt Nam</DChi>
+                <SDThoai>02253853356</SDThoai>
+                <DCTDTu>ketoan@ttplogistics.vn</DCTDTu>
+                <STKNHang>98390089</STKNHang>
+                <TNHang>Ngân hàng ACB CN Duyên Hải Hải phòng</TNHang>
+                <Fax>02253826812</Fax>
+                <Website>www.ttplogistics.vn</Website>
+                <TTKhac>
+                    <TTin>
+                        <TTruong>CompanyBankNameWithBranch</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>Ngân hàng ACB CN Duyên Hải Hải phòng - Hải Phòng</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>CompanyBranchBankName</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>Hải Phòng</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>SAEmployeeCode</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>06</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>SAEmployeeName</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>Tuq/Chu Hương Giang</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>SellerAddress</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>Số 3 đường Lê Thánh Tông, Phường Gia Viên, Quận Ngô Quyền, Thành Phố
+                            Hải Phòng, Việt Nam</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>SellerBankAccount</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>98390089</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>SellerBankName</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>Ngân hàng ACB CN Duyên Hải Hải phòng</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>SellerEmail</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>ketoan@ttplogistics.vn</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>SellerFax</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>02253826812</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>SellerPhoneNumber</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>02253853356</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>SellerWebsite</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>www.ttplogistics.vn</DLieu>
+                    </TTin>
+                </TTKhac>
+            </NBan>
+            <NMua>
+                <Ten>CÔNG TY TNHH VIỆT NAM - WOOSUNG</Ten>
+                <MST>0500408541</MST>
+                <DChi>Thôn An Hạ, Xã An Thượng, Huyện Hoài Đức, Thành phố Hà Nội, Việt Nam</DChi>
+                <MKHang>0500408541</MKHang>
+                <STKNHang>03201018161816</STKNHang>
+                <TNHang>MSB - CN Thanh Xuân Hà Nội</TNHang>
+                <TTKhac>
+                    <TTin>
+                        <TTruong>AccountObjectID</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>438de1b4-6fcd-4c95-9b22-7b642cbcd056</DLieu>
+                    </TTin>
+                </TTKhac>
+            </NMua>
+            <DSHHDVu>
+                <HHDVu>
+                    <TChat>1</TChat>
+                    <STT>1</STT>
+                    <MHHDVu>TQ+VC</MHHDVu>
+                    <THHDVu>Phí Dịch Vụ Thông Quan Và Cước vận chuyển Cảng Hải Phòng - An Thượng, Hà
+                        Nội / ZSPE25051408/SEGU2184800,BEAU2464688 / xe 15H07919,15H09760</THHDVu>
+                    <DVTinh>Bộ</DVTinh>
+                    <SLuong>1.000000</SLuong>
+                    <DGia>11300000.000000</DGia>
+                    <STCKhau>0.000000</STCKhau>
+                    <ThTien>11300000.000000</ThTien>
+                    <TSuat>8%</TSuat>
+                    <TTKhac>
+                        <TTin>
+                            <TTruong>Amount</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>11300000.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>AmountOC</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>11300000.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>AmountWithoutVATOC</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>11300000.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>DiscountAmount</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>0.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>MainConvertRate</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>1.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>MainQuantity</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>1.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>MainUnitName</TTruong>
+                            <KDLieu>string</KDLieu>
+                            <DLieu>Bộ</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>MainUnitPrice</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>11300000.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>RowType</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>0</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>SortOrder</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>1</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>UnitPrice</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>11300000.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>VATAmount</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>904000.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>VATAmountOC</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>904000.000000</DLieu>
+                        </TTin>
+                    </TTKhac>
+                </HHDVu>
+                <HHDVu>
+                    <TChat>4</TChat>
+                    <STT>0</STT>
+                    <MHHDVu>BL</MHHDVu>
+                    <THHDVu>TK 107246790600</THHDVu>
+                    <SLuong>0.000000</SLuong>
+                    <DGia>0.000000</DGia>
+                    <STCKhau>0.000000</STCKhau>
+                    <ThTien>0.000000</ThTien>
+                    <TTKhac>
+                        <TTin>
+                            <TTruong>Amount</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>0.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>AmountOC</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>0.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>DiscountAmount</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>0.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>MainConvertRate</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>1.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>RowType</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>0</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>UnitPrice</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>0.000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>VATAmountOC</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>0.000000</DLieu>
+                        </TTin>
+                    </TTKhac>
+                </HHDVu>
+            </DSHHDVu>
+            <TToan>
+                <THTTLTSuat>
+                    <LTSuat>
+                        <TSuat>8%</TSuat>
+                        <ThTien>11300000.000000</ThTien>
+                        <TThue>904000.000000</TThue>
+                    </LTSuat>
+                </THTTLTSuat>
+                <TgTCThue>11300000.000000</TgTCThue>
+                <TgTThue>904000.000000</TgTThue>
+                <TTCKTMai>0.000000</TTCKTMai>
+                <TgTTTBSo>12204000.000000</TgTTTBSo>
+                <TgTTTBChu>Mười hai triệu hai trăm linh bốn nghìn đồng chẵn.</TgTTTBChu>
+                <TTKhac>
+                    <TTin>
+                        <TTruong>TotalAmount</TTruong>
+                        <KDLieu>numeric</KDLieu>
+                        <DLieu>12204000.0000</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>TotalAmountInWordsByENG</TTruong>
+                        <KDLieu>string</KDLieu>
+                        <DLieu>Twelve million, two hundred four thousand dong.</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>TotalAmountWithoutVAT</TTruong>
+                        <KDLieu>numeric</KDLieu>
+                        <DLieu>11300000.00000000</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>TotalAmountWithoutVATOC</TTruong>
+                        <KDLieu>numeric</KDLieu>
+                        <DLieu>11300000.0000</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>TotalSaleAmount</TTruong>
+                        <KDLieu>numeric</KDLieu>
+                        <DLieu>11300000.0000</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>TotalSaleAmountOC</TTruong>
+                        <KDLieu>numeric</KDLieu>
+                        <DLieu>11300000.0000</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>TotalVATAmount</TTruong>
+                        <KDLieu>numeric</KDLieu>
+                        <DLieu>904000.0000</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>TotalAmountOC</TTruong>
+                        <KDLieu>numeric</KDLieu>
+                        <DLieu>12204000.0000</DLieu>
+                    </TTin>
+                    <TTin>
+                        <TTruong>TotalVATAmountOC</TTruong>
+                        <KDLieu>numeric</KDLieu>
+                        <DLieu>904000.0000</DLieu>
+                    </TTin>
+                </TTKhac>
+            </TToan>
+        </NDHDon>
+        <TTKhac>
+            <TTin>
+                <TTruong>InvoiceTemplateID</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>f58b70cf-fc02-4b04-a7c9-d6e84a13bf69</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>IsTaxReduction</TTruong>
+                <KDLieu>numeric</KDLieu>
+                <DLieu>False</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>IsTaxReduction43</TTruong>
+                <KDLieu>numeric</KDLieu>
+                <DLieu>True</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>RefID</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>ff239b3c-8b99-439f-b1b6-cbb90f191661</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>TaxReductionType</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>4</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>TaxReductionDescription</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>174/2024/QH15</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>AmountDecimalDigits</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>0</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>AmountOCDecimalDigits</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>2</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>CoefficientDecimalDigits</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>2</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>ExchangRateDecimalDigits</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>2</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>MainCurrency</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>VND</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>QuantityDecimalDigits</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>5</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>UnitPriceDecimalDigits</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>0</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>UnitPriceOCDecimalDigits</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>2</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>AppID</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>2AC7D9700E1A472895FC8FC2CE91BD07</DLieu>
+            </TTin>
+            <TTin>
+                <TTruong>TransactionID</TTruong>
+                <KDLieu>string</KDLieu>
+                <DLieu>WGHWSNV2A34X</DLieu>
+            </TTin>
+        </TTKhac>
+    </DLHDon>
+    <MCCQT Id="Id-71bdcd03a47b49869e7ad26a774a2ea6">00D821E31EBDAD42FCA8856F84D6692F38</MCCQT>
+    <DLQRCode>
+        00020199990034AX4DOQLBJ00TNIREZ8HYC4WGHWSNV2A34X01100201040877020110306C25TTP040430980508202506190608122040006304B0E4</DLQRCode>
+    <DSCKS>
+        <NBan>
+            <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="seller">
+                <SignedInfo>
+                    <CanonicalizationMethod
+                        Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                    <Reference URI="#WGHWSNV2A34X">
+                        <Transforms>
+                            <Transform
+                                Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        </Transforms>
+                        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                        <DigestValue>hDjXmyz7i5Moxfup0riuaxk0Ffg=</DigestValue>
+                    </Reference>
+                    <Reference URI="#SigningTime">
+                        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                        <DigestValue>K82qtukILquqNl8GnYMkJT9cOBk=</DigestValue>
+                    </Reference>
+                </SignedInfo>
+                <SignatureValue>
+                    S2HF4gsz2qnsqtlVYd3DFsQeqVU6F7QbBcswWktAPxKvDRP6POG1zLnsJKS0tPFm1LuspbwrgHuEan+knxGGx0W6J8QWU79NzdjhdUsPfZ5rJh2YJR91Q4xkQaTrp63gmgC08IZW8aqiqiezm0KdTdwKmRcZ7IlZJiXyyG3P2L/e/QYzp5Tf9ZoyNgnVd+bI7T/SpqfRqChh6DKzRb96Y+snRiCScF8JLSI/sZts7veMKAZj55HnVVzSc0OgxylNN0tUHXALIueZaGNgz89yTO/Jpu1uPC1Yqf3JyEmevQqubw3dA2ly6oav276UdiVabbx9hdRIy4pNyo4rhKCPAw==</SignatureValue>
+                <KeyInfo>
+                    <X509Data>
+                        <X509SubjectName>Phone=0934283299, E=ketoan@ttplogistics.vn,
+                            OID.0.9.2342.19200300.100.1.1=MST:0201040877, CN=CÔNG TY TNHH GIAO NHẬN
+                            T.T.P, O=CÔNG TY TNHH GIAO NHẬN T.T.P, L=Quận Ngô Quyền, S=Hải Phòng,
+                            C=VN</X509SubjectName>
+                        <X509Certificate>
+                            MIIFIjCCBAqgAwIBAgIQVAESHTuqDFMaWh4PCYR18TANBgkqhkiG9w0BAQsFADArMQ0wCwYDVQQDDARJLUNBMQ0wCwYDVQQKDARJLUNBMQswCQYDVQQGEwJWTjAeFw0yNDA5MDUwMjU3MTFaFw0yNzAxMjQwODExNDlaMIHyMQswCQYDVQQGEwJWTjEVMBMGA1UECAwMSOG6o2kgUGjDsm5nMRwwGgYDVQQHDBNRdeG6rW4gTmfDtCBRdXnhu4FuMSgwJgYDVQQKDB9Dw5RORyBUWSBUTkhIIEdJQU8gTkjhuqxOIFQuVC5QMSgwJgYDVQQDDB9Dw5RORyBUWSBUTkhIIEdJQU8gTkjhuqxOIFQuVC5QMR4wHAYKCZImiZPyLGQBAQwOTVNUOjAyMDEwNDA4NzcxJTAjBgkqhkiG9w0BCQEWFmtldG9hbkB0dHBsb2dpc3RpY3Mudm4xEzARBgNVBBQTCjA5MzQyODMyOTkwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDHVUAO2YNy8aJmlhdMIQRVfoFxvebO12Nbz6Vdg58jeQgIgb9o1ZCMSVdpdizH9TTU5hDdP+LinA+aY34Xpnt9vuth+Rk5jUT4tKGvL/kdh4QH7lYCTU65S7r6RmWjq6wjJnkln0oYHbVhXRPIn22ufGVeswNZodrjMJ1E9uuT3/+fVE92sb4s2QdceSv9wAmI1BCPAAecGG74VHMr/lm5+edSLg1wBkUnxPy4RULPtxhgGgygrwM+Roo3JhOuQ9ZMJ+BOoHW8mLXUt8KLbsR5VyjRFegzlku4fzbNKssj08CUHaVOYNsXLsp2fRs+SeaiOZwmTd8xSQAPOFenzZeHAgMBAAGjggF4MIIBdDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFMgnCWzCxN9H6hnydyl7Z1xDsSkrMIGVBggrBgEFBQcBAQSBiDCBhTAyBggrBgEFBQcwAoYmaHR0cHM6Ly9yb290Y2EuZ292LnZuL2NydC92bnJjYTI1Ni5wN2IwLgYIKwYBBQUHMAKGImh0dHBzOi8vcm9vdGNhLmdvdi52bi9jcnQvSS1DQS5wN2IwHwYIKwYBBQUHMAGGE2h0dHA6Ly9vY3NwLmktY2Eudm4wIQYDVR0RBBowGIEWa2V0b2FuQHR0cGxvZ2lzdGljcy52bjA0BgNVHSUELTArBggrBgEFBQcDAgYIKwYBBQUHAwQGCisGAQQBgjcKAwwGCSqGSIb3LwEBBTAjBgNVHR8EHDAaMBigFqAUhhJodHRwOi8vY3JsLmktY2Eudm4wHQYDVR0OBBYEFNucCOlsfYAMQCXJ0otqs3pcFyECMA4GA1UdDwEB/wQEAwIE8DANBgkqhkiG9w0BAQsFAAOCAQEAbdBad56+1IV9/G9nk31IZq6+gnkBI2CzQftT4fgcWhNFjunC5SoEWYK8BjZh93AXnOCVor+UwTPnGEfG+SrhsXpQWQkX7vMZFqufIc7W6tKfq3HpAMSZi9nKbu+yaB3tT8f9TnFKNKu5SGJZTFwn7KXWDIOX0xLzZ4H8BHmaOOlXnyrFdiELaavL9WxOeLbFOTvDGXj58ZCf5p8GYaN1OIuZBg5ITbYE4KewM3TpQZ9HDImlYDMwvDjhz8qU0m6LIN6NrGjx/ltqdYwvq2zN581WQlUSU2kuyPJAa8DZWlOlvyMxrZxUkOhQdI71/TnoQSKB4j8wcbNWHndJznumYg==</X509Certificate>
+                    </X509Data>
+                </KeyInfo>
+                <Object Id="SigningTime">
+                    <SignatureProperties>
+                        <SignatureProperty Target="#seller">
+                            <SigningTime>2025-06-19T10:53:16</SigningTime>
+                        </SignatureProperty>
+                    </SignatureProperties>
+                </Object>
+            </Signature>
+        </NBan>
+        <CQT>
+            <Signature xmlns="http://www.w3.org/2000/09/xmldsig#"
+                Id="Tct-b9a8ee3de2f54dce87b3c988731159ad">
+                <SignedInfo>
+                    <CanonicalizationMethod
+                        Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+                    <Reference URI="#WGHWSNV2A34X">
+                        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+                        <DigestValue>8vfk0HNoDhGQ826LZtO7WibyvB/EqCx8kLX8KuKhNpg=</DigestValue>
+                    </Reference>
+                    <Reference URI="#SigningTime-047e9c2b4b4948558fa6c3ba3bd7e562">
+                        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+                        <DigestValue>92H3aDCKbu7yoiAFNjiiquUkZ4wHgjAQKudCSCLpePw=</DigestValue>
+                    </Reference>
+                    <Reference URI="#Id-71bdcd03a47b49869e7ad26a774a2ea6">
+                        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+                        <DigestValue>myL6ERa1UQYxJMqwLaDWMo3jMQqCC2vPwBMY4k7/8/o=</DigestValue>
+                    </Reference>
+                </SignedInfo>
+                <SignatureValue>
+                    Gg3MJ3NccMp2s/PGSp3BFoPyEWdfi/dzF18TH/+8ghoxbfYf1EyoqQ1QqzbinRP9YvfKC9gGKBNm6U2pAY/V+00B38LKV5dVQbF/QUejL2MWS7LgJC26m4T3mXWjBmKw0mW3iJIHHzFEGmT1C9so2VaIW5AQ3kBKTCaB6RYHnkC/xcrMC9a6IHtlsj6lwgD4Abw26pc7jADGfvlWjFiW5Kilh3jKzSYh09SM9D843F5YFN2RARlYYghan8DZggIn2KAyE8BwZXsywkcy2pooW53LbIkW+jtHf5iRAnelsiFfVQMMxWQF9QW+Y5JPYM8w5FYq2/e5Qv9PrgWnDb7uYATSC2LL89VUlabdCnS2kMBKCR89/pw7Bql96CAKlxCQqJXEFeJ9AsJtnRfxbsgcMWs3yiQlNtkQg807j8wEyfvPC/Im59TRR/r5Qg2zADnlr2i0+LccK7xTRXVgbHbcs5QR91FVDFn9LmIEW5gw7IfBEBdZF8Cc0wt6rCop3SQs</SignatureValue>
+                <KeyInfo>
+                    <X509Data>
+                        <X509SubjectName>CN=CỤC THUẾ,O=BỘ TÀI CHÍNH,L=Hà Nội,C=VN</X509SubjectName>
+                        <X509Certificate>
+                            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</X509Certificate>
+                    </X509Data>
+                </KeyInfo>
+                <Object Id="SigningTime-047e9c2b4b4948558fa6c3ba3bd7e562">
+                    <SignatureProperties>
+                        <SignatureProperty Target="signatureProperties">
+                            <SigningTime>2025-06-19T10:54:16</SigningTime>
+                        </SignatureProperty>
+                    </SignatureProperties>
+                </Object>
+            </Signature>
+        </CQT>
+    </DSCKS>
+</HDon>

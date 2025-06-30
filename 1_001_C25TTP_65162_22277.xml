@@ -1,0 +1,163 @@
+<?xml-stylesheet type='text/xsl' href='20221228082832_0202100776_01'?>
+<HDon>
+    <DLHDon Id="DuLieuKy">
+        <TTChung>
+            <PBan>2.1.0</PBan>
+            <THDon>Hóa đơn GTGT</THDon>
+            <KHMSHDon>1</KHMSHDon>
+            <KHHDon>C25TTP</KHHDon>
+            <SHDon>65162</SHDon>
+            <NLap>2025-06-12</NLap>
+            <HDCTTChinh>0</HDCTTChinh>
+            <DVTTe>VND</DVTTe>
+            <TGia>1</TGia>
+            <HTTToan>Tiền mặt/ Chuyển khoản</HTTToan>
+            <MSTTCGP>0100684378</MSTTCGP>
+            <TTKhac>
+                <TTin>
+                    <TTruong>Extra</TTruong>
+                    <KDLieu>string</KDLieu>
+                    <DLieu>THT</DLieu>
+                </TTin>
+            </TTKhac>
+        </TTChung>
+        <NDHDon>
+            <NBan>
+                <Ten>CÔNG TY CỔ PHẦN THT E-LOGISTICS</Ten>
+                <MST>0202100776</MST>
+                <DChi>Lô KB2.5 và KB2.12 Khu Công Nghiệp MP Đình Vũ thuộc Khu Kinh Tế Đình Vũ - Cát
+                    Hải, Phường Đông Hải 2, Quận Hải An, Thành phố Hải Phòng, Việt Nam</DChi>
+                <SDThoai>19000271</SDThoai>
+                <STKNHang>110002879885</STKNHang>
+                <TNHang>Ngân hàng TMCP Công Thương Việt Nam (Vietinbank)</TNHang>
+            </NBan>
+            <NMua>
+                <Ten>CÔNG TY TNHH VIỆT NAM - WOOSUNG</Ten>
+                <MST>0500408541</MST>
+                <DChi>Thôn An Hạ, Xã An Thượng, Huyện Hoài Đức, Thành phố Hà Nội</DChi>
+                <MKHang>50124</MKHang>
+            </NMua>
+            <DSHHDVu>
+                <HHDVu>
+                    <TChat>1</TChat>
+                    <STT>1</STT>
+                    <THHDVu>Phí nâng hạ cont 20' BEAU2464688</THHDVu>
+                    <DVTinh>lần</DVTinh>
+                    <SLuong>1</SLuong>
+                    <DGia>925926</DGia>
+                    <TLCKhau />
+                    <STCKhau />
+                    <TSuat>8%</TSuat>
+                    <ThTien>925926</ThTien>
+                    <TTKhac>
+                        <TTin>
+                            <TTruong>Amount</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>1000000</DLieu>
+                        </TTin>
+                        <TTin>
+                            <TTruong>VATAmount</TTruong>
+                            <KDLieu>numeric</KDLieu>
+                            <DLieu>74074</DLieu>
+                        </TTin>
+                    </TTKhac>
+                </HHDVu>
+            </DSHHDVu>
+            <TToan>
+                <THTTLTSuat>
+                    <LTSuat>
+                        <TSuat>8%</TSuat>
+                        <TThue>74074</TThue>
+                        <ThTien>925926</ThTien>
+                    </LTSuat>
+                </THTTLTSuat>
+                <TgTCThue>925926</TgTCThue>
+                <TgTThue>74074</TgTThue>
+                <TgTTTBSo>1000000</TgTTTBSo>
+                <TgTTTBChu>Một triệu đồng</TgTTTBChu>
+            </TToan>
+        </NDHDon>
+    </DLHDon>
+    <MCCQT Id="Id-d7f4e5d11be84c308b7d8fd44ecccea9">00B470D0F0CBD948F38D10C934DDE5FE8B</MCCQT>
+    <DSCKS>
+        <NBan>
+            <Signature xmlns="http://www.w3.org/2000/09/xmldsig#"
+                Id="Signature-317cda890b1247e789da127394859c14">
+                <SignedInfo>
+                    <CanonicalizationMethod
+                        Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                    <Reference URI="#DuLieuKy">
+                        <Transforms>
+                            <Transform
+                                Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        </Transforms>
+                        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                        <DigestValue>WGBzCYB4+oHpA1uy1VF8AOyv5VM=</DigestValue>
+                    </Reference>
+                    <Reference URI="#SigningTime-059b0a128d93486aa2c785d2c9c8375f">
+                        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                        <DigestValue>g4ueaghXPtw++IhntY25mSVTWic=</DigestValue>
+                    </Reference>
+                </SignedInfo>
+                <SignatureValue>
+                    fSYu7EsPGRh4BURaKLLYWybkAKxih4DGD0wb3oYYC07q26oaMG+c4PcLBUrRUOEpwAx9jFxA8DNdXidKVUR9VKIqGMU3pHAIhcqw8Ngl2OuYdoSHAJ8xihjFxjw9zXQeyKOv9M3usqWum7LA4eVNLK4LbtgXlBK5MUfgLSZyubxQAHgicrLN/gf41nFxOJOFQnRJcmWhg9exPxMkOwmjtzLCoZexy/jCSORCFA/RRSdFsdshUnsCSwa/zNA5kqTrTQmtUW6Go3aV7RIhjeY8Lc3f1eToeKVEiZ4zzpLFBx3e3H54UQexYVvTdieWBzNtubX9t9P94Nem1Y9TmVzURQ==</SignatureValue>
+                <KeyInfo>
+                    <X509Data>
+                        <X509SubjectName>OID.0.9.2342.19200300.100.1.1=MST:0202100776, CN=CÔNG TY CỔ
+                            PHẦN THT E-LOGISTICS, O=CÔNG TY CỔ PHẦN THT E-LOGISTICS, L=Quận Hải An,
+                            S=HẢI PHÒNG, C=VN</X509SubjectName>
+                        <X509Certificate>
+                            MIIFejCCBGKgAwIBAgIQVAEBAc7Z3kapeXHYBrCbczANBgkqhkiG9w0BAQsFADBcMQswCQYDVQQGEwJWTjEzMDEGA1UECgwqVklFVE5BTSBQT1NUUyBBTkQgVEVMRUNPTU1VTklDQVRJT05TIEdST1VQMRgwFgYDVQQDDA9WTlBULUNBIFNIQS0yNTYwHhcNMjMwNTA1MDc1MzAwWhcNMjUwNzI4MTEwOTQ3WjCBvDELMAkGA1UEBhMCVk4xFTATBgNVBAgMDEjhuqJJIFBIw5JORzEYMBYGA1UEBwwPUXXhuq1uIEjhuqNpIEFuMS0wKwYDVQQKDCRDw5RORyBUWSBD4buUIFBI4bqmTiBUSFQgRS1MT0dJU1RJQ1MxLTArBgNVBAMMJEPDlE5HIFRZIEPhu5QgUEjhuqZOIFRIVCBFLUxPR0lTVElDUzEeMBwGCgmSJomT8ixkAQEMDk1TVDowMjAyMTAwNzc2MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkBZ4RvhLfL9IBj6VjLKW2FBxq/DjCu+8z33pZ/Y/ZDPdrtceCgktEysmyXrh5xsbjHvJaLs4kUKB8DBWpwc2dp9YmRFX18lKDpNu0U/CPWyYFS4FSVeLtR6iHkn3rs40yGqKUxq3rClMm7yNYVfQsaPBfGy7aLB7jeb2aKBCtsIUWDCyiUnkFqDcYB9EmbnEvuy3aV+aJ+lPxP/+wcNst7tVt9/84GWb4R804r7ePM5ap/qcxnOVtnqBPyg78exRn73cwo4zUtr6OCpeZP+K2Ypg89U5AYH6OVbOXB28UYSVgL+INdtJYG8j1F4UUAr/b4fErtzvG+cNKO0YTXyh6QIDAQABo4IB1TCCAdEwfgYIKwYBBQUHAQEEcjBwMDkGCCsGAQUFBzAChi1odHRwOi8vcHViLnZucHQtY2Eudm4vY2VydHMvdm5wdGNhLXNoYTI1Ni5jZXIwMwYIKwYBBQUHMAGGJ2h0dHA6Ly9vY3NwLXNoYTI1Ni52bnB0LWNhLnZuL3Jlc3BvbmRlcjAdBgNVHQ4EFgQUkrJweN7E40obq92I9QVIJaGhwcQwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBS2TWtr1qadNO0yOexCVKy+MmPYcTBrBgNVHSAEZDBiMGAGDSsGAQQBge0DAQEDAQUwTzAmBggrBgEFBQcCAjAaHhgARABJAEQALQBCADIALgAwAC0AMwA2AG0wJQYIKwYBBQUHAgEWGWh0dHA6Ly9wdWIudm5wdC1jYS52bi9ycGEwPwYDVR0fBDgwNjA0oDKgMIYuaHR0cDovL2NybC1zaGEyNTYudm5wdC1jYS52bi92bnB0Y2Etc2hhMjU2LmNybDAOBgNVHQ8BAf8EBAMCBPAwHwYDVR0lBBgwFgYIKwYBBQUHAwIGCisGAQQBgjcKAwwwIgYDVR0RBBswGYEXYWNjNEBnZW51aW5lcGFydG5lci5jb20wDQYJKoZIhvcNAQELBQADggEBAHE+gsE09Qik37gXE9PR3SuJs5hXPkbV4QKs/OPjWagBtUdXGBALykdWzNvmIvX3d121jJ1EGAR+xkuAi2SGDqctiMji1fovL//cS6xc5eQI1cd2tImxqv2zKuYcYVgMD3yiVT1ZHy4N+otnMUszmas4FSx7JaLY85oJ+lOAKLibxYs+4I/U80XYHVfhync82VAgSfcIZeXlcBsrO5Rq4ctDlgi+0Go5U7hi8vRZfGHBTTWpxTcZ5aZma242mxf2UP4z+M/he+TKCqk4gElccHAeDeuYXVYfAsNvjfCM2Sw1NtHOnUq0MZDCDJJ1Dcpw8gVYXOSTmeH6Tt8QAPC+nyg=</X509Certificate>
+                    </X509Data>
+                </KeyInfo>
+                <Object Id="SigningTime-059b0a128d93486aa2c785d2c9c8375f">
+                    <SignatureProperties xmlns="">
+                        <SignatureProperty Target="#Signature-317cda890b1247e789da127394859c14">
+                            <SigningTime>2025-06-12T09:52:54</SigningTime>
+                        </SignatureProperty>
+                    </SignatureProperties>
+                </Object>
+            </Signature>
+        </NBan>
+        <CQT>
+            <Signature xmlns="http://www.w3.org/2000/09/xmldsig#"
+                Id="Tct-feb2f19a816a401abf20d4b82ad7480b">
+                <SignedInfo>
+                    <CanonicalizationMethod
+                        Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+                    <Reference URI="#DuLieuKy">
+                        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+                        <DigestValue>00aXH12xf/CZVkEYVs5VotxWiqI8xieGHkCU1HkYMgM=</DigestValue>
+                    </Reference>
+                    <Reference URI="#SigningTime-6a4e11db0f3741998d98d8f44700c9c3">
+                        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+                        <DigestValue>uoNI62KEXGRzAU+zbk+jqRFx1x7IrAJejiav0PjffXk=</DigestValue>
+                    </Reference>
+                    <Reference URI="#Id-d7f4e5d11be84c308b7d8fd44ecccea9">
+                        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+                        <DigestValue>Z5cF5U+9c0D6ulGFWFgYNi/G3f9qzqtwfIqIrs11sYg=</DigestValue>
+                    </Reference>
+                </SignedInfo>
+                <SignatureValue>
+                    hqHuzuYaiKxAaTHiTTzTtfJHp4bLqXPBnINirHFWUVDWQqQ21M10Qs1iPxt2My/xVBWaW+W5vIfOtCJN2x5BEWQAwOeDG3zSblM+WpL+5usIV/O5JvCIgieT2OQax7KLjb3qxn4NXBcr+pw6udYRD7KUUunwQ7udycSJZ0d8blI8Z6/F9v2GrekpqH5LNblWsNVbT4QFubByfBucCEYiMEJ3erco3WIAMlJvrd2jXmNTfIC81qZIkb5s0IcGlRzthjRBkM+o9RLSfUAw4wkooYqgkOVB7khnGQ6476+CEMoyNmVcjLy0JHOYUxGXaHu7IryFuzXT1pB5F9N14EM1OPR08ZN9X8M6hPOyzK2McQ+saKC51QXLmdRuO9nXgf7AyyUPuhfq/EX/yAuyxcoXlkHEycZ2ZRAiC1WellaqK52IONqNjzilPktDGzlTmSdxlE/+yBOd7wgu+Db6ZjiJIA649Thw/nXtQz27GKcsgrgh6EaRBsJ0Hi/s7MxndKhb</SignatureValue>
+                <KeyInfo>
+                    <X509Data>
+                        <X509SubjectName>CN=CỤC THUẾ,O=BỘ TÀI CHÍNH,L=Hà Nội,C=VN</X509SubjectName>
+                        <X509Certificate>
+                            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</X509Certificate>
+                    </X509Data>
+                </KeyInfo>
+                <Object Id="SigningTime-6a4e11db0f3741998d98d8f44700c9c3">
+                    <SignatureProperties>
+                        <SignatureProperty Target="signatureProperties">
+                            <SigningTime>2025-06-12T09:52:54</SigningTime>
+                        </SignatureProperty>
+                    </SignatureProperties>
+                </Object>
+            </Signature>
+        </CQT>
+    </DSCKS>
+    <Fkey>12596683</Fkey>
+</HDon>
