@@ -10,52 +10,36 @@ namespace = {"inv": "http://laphoadon.gdt.gov.vn/2014/09/invoicexml/v1"}
 """
 
 results = []
-SHDon_list = []
-total_list = []
-
 
 for filename in os.listdir():
     if filename.endswith(".xml"):
         tree = ET.parse(filename)
         root = tree.getroot()
-        hd = ""
-        total = ""
 
-        for elem in root.iter():
-            if elem.tag.startswith("SHDon") and elem.text:
-                hd = elem.text
-                SHDon_list.append(elem.text)
-            if elem.tag.startswith("TgTTTBSo"):
-                total = elem.text
-                total_list.append(elem.text)
-            if hd and total:
-                print(f"hd: {hd}")
-                print(f"total: {total}")
-
-            # if hd == "" or total == "":
-            #     continue
-            # else:
-            #     results.append({"SHDon": hd, "Total": total})
-            # if elem.tag.startswith("SHDon") and elem.text:
-
+        # INVOICE ELEMENT
         invoice_number_elem = root.find(".//inv:invoiceNumber", namespace)
-        invoice_number = (
+        shdon_value = (
             invoice_number_elem.text if invoice_number_elem is not None else None
         )
-        if invoice_number:
-            SHDon_list.append(invoice_number)
-            results.append({"SHDon": invoice_number, "Total": "1000.000"})
 
-        invoice_total_amount_elem = root.find(".//inv:totalAmountWithVAT", namespace)
-        invoice_total = (
-            invoice_total_amount_elem.text
-            if invoice_total_amount_elem is not None
-            else None
+        if not shdon_value:
+            for elem in root.iter():
+                if elem.tag.startswith("SHDon") and elem.text:
+                    shdon_value = elem.text
+                    break
+
+        invoice_total_elem = root.find(".//inv:totalAmountWithVAT", namespace)
+        total_value = (
+            invoice_total_elem.text if invoice_total_elem is not None else None
         )
-        if invoice_total:
-            total_list.append(invoice_total)
 
-# print(SHDon_list)
-# print(results)
-# print(SHDon_list)
-# print(total_list)
+        if not total_value:
+            for elem in root.iter():
+                if elem.tag.startswith("TgTTTBSo") and elem.text:
+                    total_value = elem.text
+                    break
+
+        if shdon_value and total_value:
+            results.append({"shdon": shdon_value, "total": total_value})
+
+print(results)
