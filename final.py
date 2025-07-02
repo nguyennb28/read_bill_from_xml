@@ -28,6 +28,7 @@ for filename in os.listdir():
                     shdon_value = elem.text
                     break
 
+        # INVOICE TOTAL
         invoice_total_elem = root.find(".//inv:totalAmountWithVAT", namespace)
         total_value = (
             invoice_total_elem.text if invoice_total_elem is not None else None
