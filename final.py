@@ -10,11 +10,24 @@ namespace = {"inv": "http://laphoadon.gdt.gov.vn/2014/09/invoicexml/v1"}
 """
 
 results = []
+# invoice_names = []
+my_list = [1, 2, 3, 4, 5]
 
 for filename in os.listdir():
     if filename.endswith(".xml"):
         tree = ET.parse(filename)
         root = tree.getroot()
+
+        # INVOICE NAME
+        # invoice_names_values = [
+        #     elem.text for elem in root.findall(".//THHDVu") if elem.text
+        # ]
+        # invoice_names_values += [
+        #     elem.text
+        #     for elem in root.findall(".//inv:itemName", namespace)
+        #     if elem.text
+        # ]
+        # invoice_names.append(invoice_names_values)
 
         # INVOICE ELEMENT
         invoice_number_elem = root.find(".//inv:invoiceNumber", namespace)
@@ -40,7 +53,23 @@ for filename in os.listdir():
                     total_value = elem.text
                     break
 
-        if shdon_value and total_value:
-            results.append({"shdon": shdon_value, "total": total_value})
+        # INVOICE NAME "SHDon"
+        invoice_names = []
+        for elem in root.iter():
+            # INV = elem.findall(".//inv:itemName", namespace)
+            if elem.tag.startswith("THHDVu") and elem.text:
+                invoice_names.append(str(elem.text))
+            # elif INV:
+                # for index,x in enumerate(INV):
+                    # print(index)
+                    # print(x.text)
+            else:
+                continue
+                
 
-print(results)
+        if shdon_value and total_value:
+            results.append({"itemName": invoice_names, "shdon": shdon_value, "total": total_value})
+
+
+# for x in results:
+    # print(x)
